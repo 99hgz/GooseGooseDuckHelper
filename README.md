@@ -59,7 +59,9 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple numpy opencv-python Pill
 4. 如果有人开饭，不会自动跳过，结束后出生在随机位置会导致卡死
 5. 游戏断线后无法自动重连
 6. 鸭、中立或者死后不会自动做伪装任务只会随机走动
-7. 综合以上问题
+7. 走路控制不够精准，容易卡顿或绕圈 
+
+以上问题导致效率大概只有手动的一半
 
 ## 交流群
 
