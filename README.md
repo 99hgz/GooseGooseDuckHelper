@@ -1,16 +1,12 @@
 <h1 align="center">GooseGooseDuckHelper</h1>
 
+### 已经过时的项目，开发时的版本为26.1
+
 ## 使用指南
 
 ### 安装
 
-1.使用打包版本（仅支持非房主）
-
-```
-https://wwul.lanzoue.com/inzYj0lxlxla
-```
-
-2.使用源码版本
+使用源码版本
 
 ```
 拉取代码并安装依赖
@@ -62,10 +58,6 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple numpy opencv-python Pill
 7. 走路控制不够精准，容易卡顿或绕圈 
 
 以上问题导致效率大概只有手动的一半
-
-## 交流群
-
-[![交流群](https://i.328888.xyz/2023/01/27/jiJ8L.png)](https://i.328888.xyz/2023/01/27/jiJ8L.png)
 
 
 ## Development
